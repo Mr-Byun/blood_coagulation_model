@@ -6,7 +6,7 @@ Nayak, S., Lee, D., Patel-Hett, S., Pittman, D., Martin, S., Heatherington, A., 
 
 This project completed for 2019 Bioinformatics Class in Handong Global University.
 
-We modified vesion from MatLab to R to achieve more readability and writability.
+We modified a vesion from MatLab to R to achieve more readability and writability.
 
 Unfortunately, compared to MatLab, R internals are single-threaded, making its performance much slower.
 
